@@ -1,6 +1,6 @@
 'KetchUp!' 
 
-A game created by Wei Xin Lee for 15-112 Fall '17 Term Project.
+A game created by Wei Xin Lee for 15-112 (Fundamentals of Programming and Computer Science) Fall '17 Term Project.
 
 Link to demo video: https://youtu.be/PZKkppOiAN8
 
