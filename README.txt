@@ -4,6 +4,12 @@ A game created by Wei Xin Lee for 15-112 (Fundamentals of Programming and Comput
 
 Link to demo video: https://youtu.be/PZKkppOiAN8
 
+Note: Although these files are now on GitHub, when I first developed this, I did not yet have a GitHub account. As
+      such, all version control is stored in ProjectCodebase/VersionControl
+
+____________________________________________________________________________________________________________________
+********************************************************************************************************************
+
 The game has two gamemodes:
 	1. Chase Mode
 	   Players chase each other around the map on a time-based rotation. This mode is played by two
