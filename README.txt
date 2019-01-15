@@ -11,6 +11,7 @@ ________________________________________________________________________________
 ********************************************************************************************************************
 
 The game has two gamemodes:
+
 	1. Chase Mode
 	   Players chase each other around the map on a time-based rotation. This mode is played by two
 	   players on the same keyboard and two computer characters.
@@ -27,8 +28,10 @@ The game has two gamemodes:
 	   Power ups included:
 		- Gun
 		- Laser
+		
 
 Settings included:
+
 	1. Board Size
 	   There are three different board sizes - small, medium and large.
 
@@ -40,8 +43,10 @@ Settings included:
 
 	4. Computer Difficulty (for Chase Mode)
 	   There are two difficulties for the AIs - easy and hard.
+	   
 
 How to run the game:
+
 	1. Install Pygame on your computer
 	   Download Pygame from this website: http://www.pygame.org/download.shtml
 	   If you experience difficulty, instructions can be found here: (Courtesy of Lukas Peraza)
